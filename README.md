@@ -1,4 +1,13 @@
-# 🛡️ JobGuard
+# 🛡️ JobGuard - Fake Job Posting Detection
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=streamlit)](https://jobguardd.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?style=for-the-badge)
+
+> 🚀 **Try the application here:** https://jobguardd.streamlit.app/
+
+---
 
 An AI-powered Fake Job Posting Detection System built using Natural Language Processing (NLP) and Machine Learning.
 
@@ -18,6 +27,9 @@ This project demonstrates an end-to-end Machine Learning pipeline including:
 - Model Deployment using Streamlit
 
 ---
+## 📷 Preview
+
+![JobGuard Screenshot](screenshots/home.png)
 
 ## 🚀 Features
 
